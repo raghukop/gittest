@@ -1,2 +1,2 @@
 # gittest
-test repository commitcheckin             
+test repository commitchek             
